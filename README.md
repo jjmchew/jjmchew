@@ -1,4 +1,4 @@
-"Everything should be as simple as it can be, but not simpler."
+> "Everything should be as simple as it can be, but not simpler."
 
 Words to live and code by.
 
