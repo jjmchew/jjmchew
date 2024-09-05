@@ -1,6 +1,6 @@
 > "Everything should be as simple as it can be, but not simpler."
 
-Words to live and code by.
+Words to live and code by from one of the greats.
 
 
 <!--
