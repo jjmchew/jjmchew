@@ -1,4 +1,7 @@
-## Hi there 👋
+"Everything should be as simple as it can be, but not simpler."
+
+Words to live and code by.
+
 
 <!--
 **jjmchew/jjmchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
